@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuncionesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-12-01T02:32:40" hostname="LAPTOP-3AE5OCH1" time="0.099">
+  <properties/>
+  <testcase name="esPrimoFalsoValidoTest()" classname="FuncionesTest" time="0.063"/>
+  <testcase name="esMultiploDe3VerdaderoTest()" classname="FuncionesTest" time="0.013"/>
+  <testcase name="esMultiploDe3FalsoTest()" classname="FuncionesTest" time="0.003"/>
+  <testcase name="esPrimoFalsoNoValidoTest()" classname="FuncionesTest" time="0.001"/>
+  <testcase name="esBiciestoFalsoTest()" classname="FuncionesTest" time="0.001"/>
+  <testcase name="esPrimoVerdaderoTest()" classname="FuncionesTest" time="0.001"/>
+  <testcase name="esBiciestoVerdaderoTest()" classname="FuncionesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
